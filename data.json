@@ -1,0 +1,158 @@
+{
+  "news": [
+    {
+      "header": "Patna News",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas nemo error modi delectus rerum qui explicabo ipsa quam. Fuga voluptas nostrum nobis quam vero accusantium expedita aspernatur corrupti officia doloremque odio delectus ratione, facilis nam, esse molestias quo? Accusantium consectetur odio magni optio minus, officia deserunt voluptatem saepe possimus cupiditate!",
+      "date": "09/04/2022",
+      "isArchived": 1,
+      "ulbid": 1,
+      "id": 1
+    },
+    {
+      "header": "This is news Master",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas nemo error modi delectus rerum qui explicabo ipsa quam. Fuga voluptas nostrum nobis quam vero accusantium expedita aspernatur corrupti officia doloremque odio delectus ratione, facilis nam, esse molestias quo? Accusantium consectetur odio magni optio minus, officia deserunt voluptatem saepe possimus cupiditate!",
+      "date": "7th July 2022",
+      "isArchived": 0,
+      "ulbid": 1,
+      "id": 11
+    },
+    {
+      "header": "NEws with id",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas nemo error modi delectus rerum qui explicabo ipsa quam. Fuga voluptas nostrum nobis quam vero accusantium expedita aspernatur corrupti officia doloremque odio delectus ratione, facilis nam, esse molestias quo? Accusantium consectetur odio magni optio minus, officia deserunt voluptatem saepe possimus cupiditate!",
+      "date": "7th July 2022",
+      "isArchived": 0,
+      "ulbid": 2,
+      "id": 13
+    }
+  ],
+  "event": [
+    {
+      "header": "My First Event",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas nemo error modi delectus rerum qui explicabo delectus ratione, facilis nam, esse molestias quo? Accusantium consectetur odio magni optio minus, officia deserunt voluptatem saepe possimus cupiditate!",
+      "date": "09/04/2022",
+      "isArchived": 0,
+      "ulbid": 1,
+      "id": 3
+    },
+    {
+      "header": "Event Ranchi",
+      "body": "<p>Event Dhanbad 2Event Dhanbad 2</p>",
+      "date": "6th July 2022",
+      "isArchived": 1,
+      "ulbid": 2,
+      "id": 11
+    },
+    {
+      "header": "event Dhanbad",
+      "body": "<p>Event Dhanbad 2Event Dhanbad 2</p>",
+      "date": "6th July 2022",
+      "isArchived": 0,
+      "ulbid": 4,
+      "id": 12
+    },
+    {
+      "header": "event Bokaro",
+      "body": "<p>Event Dhanbad 2Event Dhanbad 2</p>",
+      "date": "6th July 2022",
+      "isArchived": 0,
+      "ulbid": 3,
+      "id": 13
+    },
+    {
+      "header": "event Jamshedpur",
+      "body": "<p>Event Dhanbad 2Event Dhanbad 2</p>",
+      "date": "7th July 2022",
+      "isArchived": 0,
+      "ulbid": 1,
+      "id": 15
+    },
+    {
+      "header": "event",
+      "body": "<p>Event Dhanbad 2Event Dhanbad 2</p>",
+      "date": "7th July 2022",
+      "isArchived": 0,
+      "ulbid": 1,
+      "id": 16
+    }
+  ],
+  "function": [
+    {
+      "header": "This is Function",
+      "body": "<p>Function Body 4</p>",
+      "date": "6th July 2022",
+      "isArchived": 1,
+      "ulbid": 4,
+      "id": 8
+    },
+    {
+      "header": "Gandhi jayanti",
+      "body": "Gandhi jayanti Body   Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas nemo error modi delectus rerum qui explicabo delectus ratione, facilis nam, esse molestias quo? Accusantium consectetur odio magni optio minus, officia deserunt voluptatem saepe possimus cupiditate!",
+      "date": "7th July 2022",
+      "isArchived": 1,
+      "ulbid": 1,
+      "id": 11
+    }
+  ],
+  "announcement": [
+    {
+      "header": "12",
+      "body": "<p>e</p>",
+      "date": "Today is a Monday",
+      "isArchived": 0,
+      "ulbid": 1,
+      "id": 4
+    },
+    {
+      "header": "Announcement 4",
+      "body": "<p>Announcement 4</p>",
+      "date": "6th July 2022",
+      "isArchived": 1,
+      "ulbid": 4,
+      "id": 8
+    },
+    {
+      "header": "Announcement 4",
+      "date": "7th July 2022",
+      "isArchived": 0,
+      "ulbid": null,
+      "id": 9
+    }
+  ],
+  "advertisement": [
+    {
+      "header": "This is advertisement",
+      "body": "<p>Announcement 4</p>",
+      "date": "6th July 2022",
+      "isArchived": 1,
+      "ulbid": 4,
+      "id": 8
+    },
+    {
+      "header": "this ads",
+      "body": "add body",
+      "date": "7th July 2022",
+      "isArchived": 1,
+      "ulbid": null,
+      "id": 10
+    }
+  ],
+
+  "Select":[
+    {
+      "header": "Ranchi",
+      "ulbid": 1
+    },
+    {
+      "header": "Dhanbad",
+      "ulbid": 2
+    },
+    {
+      "header": "Bokaro",
+      "ulbid": 3
+    },
+    {
+      "header": "Jamshedpur",
+      "ulbid": 4
+    }
+  ]
+}

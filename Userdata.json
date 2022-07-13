@@ -1,0 +1,31 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "username": "hello",
+      "password": 12345,
+      "confirmpassword": 12345
+    },
+    {
+      "username": "admin",
+      "password": "12345",
+      "confirmpassword": "12345",
+      "id": 2
+    }
+  ],
+  "firmDetail": [
+    {
+      "id": 1,
+      "firmtype": "other",
+      "firmName": "info",
+      "holdingNo": 34,
+      "wardNo": 1,
+      "estbDate": "2022-07-17"
+    },
+    {
+      "firmtype": "Proprietorship",
+      "id": 5
+    }
+   
+  ]
+}

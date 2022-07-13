@@ -1,0 +1,101 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "category": "Trade",
+      "api_url": "http://ddadelhi.in/swmerp?key=API_KEY",
+      "pre_conditions": "Authenticated Users Only",
+      "expected_payload": "from_date=01-01-1970 && application_id=123456",
+      "response_format": "JSON",
+      "revision_no": 1,
+      "Remarks": "This is a dummy remark",
+      "status": 1
+    },
+    {
+      "id": 2,
+      "category": "Water",
+      "api_url": "http://ddadelhi.in/swmerp?key=API_KEY",
+      "pre_conditions": "Authenticated Users Only",
+      "expected_payload": "from_date=01-01-1970 && application_id=123456",
+      "response_format": "JSON",
+      "revision_no": 1,
+      "Remarks": "This is a dummy remark",
+      "status": 1
+    },
+    {
+      "id": 3,
+      "category": "Property",
+      "api_url": "http://ddadelhi.in/swmerp?key=API_KEY",
+      "pre_conditions": "Authenticated Users Only",
+      "expected_payload": "from_date=01-01-1970 && application_id=123456",
+      "response_format": "JSON",
+      "revision_no": 1,
+      "Remarks": "This is a dummy remark",
+      "status": 1
+    },
+    {
+      "category": "Water",
+      "revision": "244",
+      "preCondition": "testing",
+      "postCondition": "testing",
+      "exepectedPayload": "testing",
+      "response": "testing",
+      "api_url": "http://localhost:3000/?ExepectedPayload=&Response=&url=&+remark=&createdOn=&createdBy=&version=",
+      "remark": "testing",
+      "id": 4
+    },
+    {
+      "category": "Water",
+      "revision": "244",
+      "preCondition": "testing",
+      "postCondition": "testing",
+      "exepectedPayload": "testing",
+      "response": "testing",
+      "api_url": "http://localhost:3000/?ExepectedPayload=&Response=&url=&+remark=&createdOn=&createdBy=&version=",
+      "remark": "testing",
+      "id": 5
+    },
+    {
+      "category": "Water",
+      "revision": "244",
+      "preCondition": "testing",
+      "postCondition": "testing",
+      "exepectedPayload": "testing",
+      "response": "testing",
+      "api_url": "http://localhost:3000/?ExepectedPayload=&Response=&url=&+remark=&createdOn=&createdBy=&version=",
+      "remark": "testing",
+      "flexCheckIndeterminate": [
+        "1"
+      ],
+      "id": 6
+    },
+    {
+      "category": "Water",
+      "revision": "244",
+      "preCondition": "testing",
+      "postCondition": "testing",
+      "exepectedPayload": "testing",
+      "response": "testing",
+      "api_url": "http://localhost:3000/?ExepectedPayload=&Response=&url=&+remark=&createdOn=&createdBy=&version=",
+      "remark": "testing",
+      "flexCheckIndeterminate": [
+        "1"
+      ],
+      "id": 7
+    },
+    {
+      "category": "Water",
+      "revision": "244",
+      "preCondition": "testing",
+      "postCondition": "testing",
+      "exepectedPayload": "testing",
+      "response": "testing",
+      "api_url": "http://localhost:3000/?ExepectedPayload=&Response=&url=&+remark=&createdOn=&createdBy=&version=",
+      "remark": "testing",
+      "flexCheckIndeterminate": [
+        "0"
+      ],
+      "id": 8
+    }
+  ]
+}
